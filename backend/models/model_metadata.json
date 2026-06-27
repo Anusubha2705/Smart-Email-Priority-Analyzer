@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.6086956521739131,
+  "precision": 0.6300395256916996,
+  "recall": 0.6086956521739131,
+  "f1_score": 0.6007745115296603,
+  "model_type": "MultinomialNB",
+  "vectorizer_type": "TfidfVectorizer",
+  "features": 500,
+  "training_samples": 92,
+  "test_samples": 23
+}

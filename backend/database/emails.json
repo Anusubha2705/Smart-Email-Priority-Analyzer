@@ -1,0 +1,28 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "subject": "Thank you for booking your assessment slot.",
+      "content": "Thank you for booking your assessment slot.We’re pleased to confirm your slot for 9:30 AM, 8 Feb 2026.\n\n\nPlease look out for a separate assessment invitation email, which will contain your unique test link and further instructions.\n\n\nIf you have any questions, please reach out to support@hirepro.in.\n\n\nWishing you all the best for your assessment!\n\n\nSincerely,\n\nTalent acquisition team\nDeloitte US-India Officesloitte US-India Offices | National Level Assessment (NLA) | Assessment slot confirmation",
+      "priority": "Medium",
+      "email_size": 0.53,
+      "created_at": "2026-03-08T17:23:07.476Z"
+    },
+    {
+      "id": 2,
+      "subject": "URGENT: System Down ",
+      "content": "Our production server is down. All users are affected. Need immediate action to restore service. ",
+      "priority": "High",
+      "email_size": 0.12,
+      "created_at": "2026-03-12T15:29:20.075Z"
+    },
+    {
+      "id": 3,
+      "subject": "urgent system down",
+      "content": "Our production server is down. All users are affected. Need immediate action to restore service. ",
+      "priority": "High",
+      "email_size": 0.11,
+      "created_at": "2026-03-12T15:30:18.894Z"
+    }
+  ]
+}

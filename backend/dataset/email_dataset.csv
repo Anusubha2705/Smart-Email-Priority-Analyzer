@@ -1,0 +1,116 @@
+subject,content,priority
+URGENT: System Down,Our production server is down. All users are affected. Need immediate action to restore service.,High
+Critical Security Alert,Detected unusual login attempts from multiple countries. Potential breach in progress. Escalate immediately.,High
+Emergency: Budget Approval Needed,Board meeting in 2 hours. Need your approval on Q1 budget of $2.5M. Decision deadline.,High
+ASAP: Client Contract Expiring,Our largest client contract expires tomorrow. Need to renew or we lose $500K annual revenue.,High
+Fire: Compliance Violation,Regulatory audit found critical compliance issue. Fines pending if not addressed within 24 hours.,High
+Immediate Action Required,Bank flagged fraudulent transaction on company account. $100K transferred. Need to block transfers.,High
+STAT: Performance Review Due,Your performance review is due today for salary decision. Please submit by 5 PM.,High
+Critical: Data Loss Incident,Database corruption detected. 48-hour window to recover before data becomes unrecoverable.,High
+Urgent Meeting Scheduled,CEO wants emergency all-hands in 30 minutes to discuss acquisition opportunity.,High
+ALERT: API Key Compromised,Someone accessed our API credentials. All integrations potentially compromised. Rotate keys now.,High
+Priority: Insurance Claim,Insurance claim rejection received. Must appeal within 48 hours or lose coverage.,High
+Emergency Staffing Need,Team member hospitalized. Need coverage for critical project. Who can work tonight?,High
+Urgent: Tax Filing Deadline,Business tax return deadline is tomorrow. Accountant needs final numbers by EOD today.,High
+Critical: Patient Health Alert,Patient flagged critical condition. Immediate medical intervention required.,High
+URGENT: Shipping Delay Alert,Major shipment stuck at customs. Customer deadline is tomorrow. Need emergency solution.,High
+Immediate: Server Outage,Web server down for 45 minutes. Revenue impact: $5K per hour. Need emergency fix.,High
+Critical: Grant Deadline,Research grant application due in 24 hours. Missing key documents. Need immediate action.,High
+Urgent: Travel Approval,Flight leaves in 12 hours for critical client meeting. Need expense approval NOW.,High
+ASAP: Code Review,Critical security patch needs review before deployment. Cannot release without approval.,High
+Emergency: Inventory Crisis,Medical supplies running critically low. Patient care at risk. Emergency order needed.,High
+Urgent: Board Decision,Shareholder vote happening tomorrow. Need board alignment on strategy before then.,High
+Critical: Software Bug,Critical bug found in production affecting 10% of users. Hotfix needed immediately.,High
+STAT: Doctor on Call,Emergency surgery scheduled. On-call surgeon needed in OR within 30 minutes.,High
+Immediate: Legal Action,Opposing council sent cease-and-desist. Legal response due in 24 hours.,High
+Urgent: Equipment Failure,Production equipment failed. Factory shutdown imminent. Need emergency technician.,High
+Critical: Customer Outage,Enterprise customer experiencing complete service outage. SLA at critical level.,High
+ASAP: Permit Expiration,Operating permit expires tomorrow. Renewal submission deadline is today.,High
+Emergency: Team Emergency,Team member car accident. Need to cover their critical production responsibilities NOW.,High
+Urgent: Funding Deadline,Investment funding opportunity expires tomorrow. Board needs to decide by EOD.,High
+Critical: Network Breach,Cybersecurity detected intrusion in network. All systems need immediate investigation.,High
+Immediate: Wedding Emergency,Wedding planner canceled 3 days before event. Alternative needed within 48 hours.,High
+Urgent: Client Escalation,Customer threatening to leave due to service issues. Need executive intervention today.,High
+Critical: Deadline Miss,Project deadline was yesterday. Client furious. Need damage control immediately.,High
+Emergency: Building Evacuation,Fire alarm activation. Immediate evacuation required. All personnel report status.,High
+Urgent: Money Transfer,Need to wire $500K to secure deal. Wire instructions in email. Approval needed NOW.,High
+Critical: Compliance Audit,Auditor announced surprise inspection today. Facilities not ready. Emergency preparation needed.,High
+ASAP: Medical Test Results,Critical test results came back abnormal. Doctor needs immediate consultation.,High
+Emergency: Lost Access,Accidentally locked out of critical system with no backup access. Need IT emergency restore.,High
+Urgent: Decision Needed,Major strategic decision point. Board meeting in 4 hours. Analysis needed ASAP.,High
+Critical: Product Recall,"Safety issue found. Must recall 10,000 units. Legal and media implications.",High
+Quarterly Results Analysis,Please review the Q4 financial results and prepare summary for next week's meeting.,Medium
+Team Meeting Tomorrow,We have a team sync scheduled for tomorrow at 10 AM. Agenda items welcome.,Medium
+Project Status Update,Can you provide a status update on the website redesign project by Friday?,Medium
+New Policy Implementation,HR is rolling out new remote work policy next month. Please familiarize yourself.,Medium
+Contract Review Needed,Legal team sent vendor contract for review. Please check and return comments by Wednesday.,Medium
+Training Schedule,Annual compliance training is scheduled for next Tuesday. Please confirm attendance.,Medium
+Budget Planning,We need to finalize the 2025 departmental budget. Request is due by end of next week.,Medium
+Performance Metrics,Review attached dashboard showing team performance metrics for the month.,Medium
+System Upgrade Scheduled,IT will perform system maintenance this weekend. Expect 4-hour downtime.,Medium
+Meeting Follow-up,Following up on our meeting yesterday. Here are the action items assigned to your team.,Medium
+Campaign Launch Planning,Marketing wants to discuss Q2 campaign strategy. Can we meet next week?,Medium
+Documentation Update,Engineering docs need update for new API endpoints. Can you handle this?,Medium
+Client Feedback Summary,Compiled customer feedback from this month's surveys. Review and discuss in meeting.,Medium
+Office Supplies Request,Please submit office supply requests for the new quarter by the end of the month.,Medium
+Vacation Coverage,I'll be out next week. Here's the coverage plan for my projects while I'm away.,Medium
+Networking Event,Industry conference coming up in 6 weeks. Interested in attending? Limited budget available.,Medium
+Vendor Evaluation,We're evaluating new software vendors. Your input on tool comparison would be helpful.,Medium
+Project Milestone Review,We've hit the halfway point on the development project. Time for a progress review.,Medium
+Customer Success Story,One of our customers agreed to case study. Would you contribute insights?,Medium
+Code Review Assignment,PR assigned to you for code review. Please review and provide feedback by tomorrow.,Medium
+System Performance Issue,Database queries running slow on reporting dashboard. Need optimization review.,Medium
+Recruitment Update,We're hiring two new team members. Interviews scheduled for next Thursday.,Medium
+Security Update Available,New security patch released for our framework. Plan implementation for next release.,Medium
+Mentorship Program,Employee mentorship program starting next month. Interested in mentoring junior staff?,Medium
+Research Paper Review,Found relevant research for our project. Could you review and summarize findings?,Medium
+Marketing Materials Needed,Need updated company bios and headshots for marketing collateral. Can you provide?,Medium
+Customer Retention Plan,Discussing strategy to retain at-risk customers. Your ideas would be valuable.,Medium
+Tool Migration,Planning migration from Tool A to Tool B. Your team will be impacted. Info session scheduled.,Medium
+Feedback Request,Could you provide feedback on the product mockups shared in the attached design?,Medium
+Industry News,Interesting news about market trends in our space. Thought you'd find it relevant.,Medium
+Collaboration Opportunity,Another team wants to collaborate on a cross-functional project. Interest in joining?,Medium
+Data Analysis Request,Need analysis on user behavior data to inform product decisions. Can you help?,Medium
+Onboarding Feedback,New team member onboarding completed. Feedback on the process would help us improve.,Medium
+Process Improvement,Proposing new workflow to improve team efficiency. Would appreciate your thoughts.,Medium
+Certification Course,Recommended certification course for professional development. Interested? Budget available.,Medium
+Service Level Review,Reviewing SLAs with service providers. Your input on current service levels needed.,Medium
+Expense Report Status,Your expense report is pending approval. Please check the attachment for required edits.,Medium
+Weekly Newsletter,This week's company newsletter is ready. Highlights and upcoming events inside.,Low
+Office Birthday,Birthday celebration for Tom in the breakroom today at 3 PM. Cake and drinks!,Low
+Parking Reminder,Reminder: Parking spot cleaning scheduled for this Saturday morning.,Low
+Updated Employee Directory,Employee directory has been updated. New contact information available on the intranet.,Low
+IT Tips & Tricks,This week's IT tip: How to optimize your email folder structure for better productivity.,Low
+Lunch Announcement,Company lunch catered tomorrow in the main conference room. RSVP appreciated.,Low
+Team Outing,Planning summer team outing to local restaurant. Sign-up sheet is on the bulletin board.,Low
+Upcoming Holiday,Reminder: Memorial Day holiday on May 26th. Offices will be closed.,Low
+Software License Renewal,Annual software license is up for renewal. Current pricing available upon request.,Low
+Gym Membership,Company gym membership now available at discounted rate. Enrollment open until Friday.,Low
+Meeting Room Reservation,Meeting rooms now available to book through the new scheduling system.,Low
+Desk Relocation,Your desk will be relocated next week as part of office reorganization. Details to follow.,Low
+Coffee Machine Maintenance,Coffee machines will be serviced tomorrow. Expect some disruption in the break room.,Low
+Library Update,Updated business book collection now available in the company library.,Low
+Suggestion Box,Company suggestion box is open. Submit your ideas for improving workplace culture.,Low
+Lost & Found,Lost backpack in the main lobby. Please check the lost and found area.,Low
+Company Social Media,Follow us on social media for company updates and announcements.,Low
+Feedback Survey,Quick company satisfaction survey sent out. Takes 5 minutes to complete.,Low
+Commuter Benefits,Reminder: Commuter benefits enrollment deadline is this Friday.,Low
+Wellness Program,Free yoga classes available Wednesdays at lunch. No experience necessary.,Low
+Art Gallery,Local art gallery exhibition featuring employee artwork. Opening reception Saturday evening.,Low
+Plant Donation,"Free office plants available from facilities. First come, first served in the lobby.",Low
+Podcast Recommendation,Interesting business podcast episode you might enjoy. Link in the message.,Low
+Weekly Stats,This week's usage statistics for office resources and facilities.,Low
+Building Maintenance,Minor building maintenance will occur next week. Minimal disruption expected.,Low
+Parking Update,New electric car charging stations installed in parking lot section D.,Low
+Document Shredding,Confidential document shredding service available. Schedule your pickup online.,Low
+Office Supplies Catalog,New office supplies catalog available. Check updated pricing and new products.,Low
+Energy Saving Tips,Tips for reducing energy consumption at home and in the office.,Low
+Team Photo,Professional team photo session scheduled. Your attendance helps capture company culture.,Low
+Benefits Guide,Updated benefits guide published. Review section relevant to your employment status.,Low
+Facility Hours,Updated office facility hours posted. Check the new hours for weekends and holidays.,Low
+Vendor Anniversary,Our IT vendor celebrating 20 years in business. Promotional discount available this month.,Low
+Training Opportunity,"Free webinar on industry trends. Optional attendance, link available in portal.",Low
+Spring Cleaning,Office spring cleaning day scheduled. Volunteers appreciated for organizing files.,Low
+Charitable Giving,Company matching charitable donations this quarter. Submit your preferred charity.,Low
+Weather Advisory,Severe weather advisory for the region. Consider leaving early if needed.,Low
+Book Club,Company book club meeting next month. This month's selection and voting details attached.,Low
